@@ -22,6 +22,9 @@ Girl Band Cry:
 - Rupa
 - Tomo Ebizuka
 
+赛马娘系列:
+- 诗歌剧  "曼波"
+
 
 Family Guys:
 - Peter Griffin

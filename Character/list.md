@@ -46,9 +46,12 @@ Zoom:
 - 耄耋 "哈"
 - 哪吒 
 
-国际服山海经:
-- 
-
+国际服山海经(名字即为语音):
+- Tung Tung Tung Sahur "Tung Tung Tung Sahur"
+- Chimpanzini Bananini "Chimpanzini Bananini WoWoWO"
+- Lirili Larila "Lirili Larila"
+- traralelo tralala "traralelo tralala"
+- ballerina cappuccina "ballerina cappuccina"
 
 
 

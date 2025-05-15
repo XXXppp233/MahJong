@@ -23,6 +23,7 @@ Girl Band Cry:
 - Tomo Ebizuka
 
 赛马娘系列:
+- 东海帝皇 "哈吉米"
 - 诗歌剧  "曼波"
 
 

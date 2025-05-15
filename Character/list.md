@@ -53,6 +53,8 @@ Zoom:
 - traralelo tralala "traralelo tralala"
 - ballerina cappuccina "ballerina cappuccina"
 
+神
+- 叮咚鸡 "叮咚鸡 叮咚鸡"
 
 
 

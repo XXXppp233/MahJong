@@ -48,7 +48,6 @@ Zoom:
 - 永雏塔菲 ""
 - 奶龙 "我才是奶龙"
 - 耄耋 "哈"
-- 哪吒 
 
 国际服山海经(名字即为语音):
 - Tung Tung Tung Sahur "Tung Tung Tung Tung Tung Tung Sahur"

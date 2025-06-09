@@ -39,7 +39,7 @@ Family Guys:
 - Glenn Quagmire "giggity giggity giggity" 
 
 Zoom:
-- 电棍 "哇嗷"
+- 电棍 "欧内的手 好汉"
 - 山泥若
 - 炫狗
 

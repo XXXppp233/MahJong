@@ -1,5 +1,10 @@
 # MahJong
 
+
+## [功能实现](code)
+## [歌单](musiclist)
+
+
 ### 福州麻将 
 基于 Web
 服务端运行服务后，客户可以在 web 端参与游戏，如果服务没有运行 则会显示服务未运行
@@ -47,7 +52,7 @@
 - 初始房主： 东    
 
 
-借鉴
+### 借鉴
 - https://shopify.github.io/draggable/
 
 

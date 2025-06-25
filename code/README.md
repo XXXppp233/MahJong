@@ -7,7 +7,7 @@
 尽量选用长视频平台
 
 - bilibili
-    - 封面获取 ✅ by.沉默懒惰
+    - [封面获取](Getbilibiliimg.py) ✅ by.沉默懒惰
     - 音频获取
 - youtube
 

@@ -51,5 +51,5 @@ def get_bilibili_img(url):
 
     return f"{title}.{img_format}" if isOK else None
 
-url = 'https://www.bilibili.com/video/BV1oZ7pzXEiS/?vd_source=71f588fa38b80bbef1fd5b2d5872a7e1'
-print(get_bilibili_img(url))
+# url = 'https://www.bilibili.com/video/BV1g4moYBE4M'
+# print(get_bilibili_img(url))

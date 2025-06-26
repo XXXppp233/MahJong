@@ -75,5 +75,5 @@ def get_bilibili_voice(url):
 # Bilibili 视频为 域名/v1/resource/数字-p-300数字，顺序越靠后的质量越高
 
 
-url = 'https://www.bilibili.com/video/BV1g4moYBE4M'
-print(get_bilibili_voice(url))
+# url = 'https://www.bilibili.com/video/BV1g4moYBE4M'
+# print(get_bilibili_voice(url))

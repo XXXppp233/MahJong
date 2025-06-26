@@ -47,5 +47,5 @@ def get_ytb_img(url):
 
     return f"{title}.{img_format}" if img_format else None
 
-url = 'https://www.youtube.com/watch?v=Y16_rDXcfcA'
-print(get_ytb_img(url))
+# url = 'https://www.youtube.com/watch?v=Y16_rDXcfcA'
+# print(get_ytb_img(url))

@@ -10,7 +10,7 @@
     - [封面获取](get_bilibili_img.py) ✅ by.沉默懒惰
     - [音频获取](get_bilibili_media.py) ✅ by.沉默懒惰
 - youtube
-
+    - [封面获取](get_ytb_img.py) ✅ by.沉默懒惰
 
 
 #### 视频推送

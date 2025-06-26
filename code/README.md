@@ -7,8 +7,8 @@
 尽量选用长视频平台
 
 - bilibili
-    - [封面获取](Getbilibiliimg.py) ✅ by.沉默懒惰
-    - [音频获取](GetbilibiliVoice.py) ✅ by.沉默懒惰
+    - [封面获取](get_bilibili_img.py) ✅ by.沉默懒惰
+    - [音频获取](get_bilibili_media.py) ✅ by.沉默懒惰
 - youtube
 
 

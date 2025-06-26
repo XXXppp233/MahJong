@@ -6,11 +6,14 @@ import re
 import json
 
 def get_bilibili_voice(url):
+    isOK = False
+    pattern = r'(https://.*?")'
+    pattern1 = r'-\d+-(\d+)'
     headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36'
 }
-    pattern = r'(https://.*?")'
-    pattern1 = r'-\d+-(\d+)'
+    title_prop = {"class": "video-title special-text-indent"}
+    
     try:
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()  # 检查请求是否成功
@@ -18,8 +21,7 @@ def get_bilibili_voice(url):
         print("成功获取网页内容！")
 
         soup = BeautifulSoup(html_content, 'html.parser')
-        rtitle = soup.find('title')
-        title = rtitle.text.split('_')[-3]
+        title = soup.find('h1', attrs=title_prop).text
         scripts = soup.find_all('script')
   
         play_info = None
@@ -57,18 +59,21 @@ def get_bilibili_voice(url):
                     with open(f'{title}_voice.m4s', 'wb') as f:
                         f.write(response.content)
                     print(f"音频片段 {title} {number}已保存。")
+                    isOK = True
                     break
             except Exception as e:
                 print(f"下载音频片段 {title} {number}失败: ")
                 number -= 1
                 continue
-        return f'{title}_voice.m4s'
+
+        return f'{title}_voice.m4s' if isOK else None
     except requests.exceptions.RequestException as e:
         print(f"请求网页时出错: {e}")
         return None
+# 返回 None 时表示获取失败    
 # Bilibili 音频为 域名/v1/resource/数字-p-1000数字，顺序靠前的质量高
 # Bilibili 视频为 域名/v1/resource/数字-p-300数字，顺序越靠后的质量越高
 
 
-# url = 'https://www.bilibili.com/video/BV1g4moYBE4M'
-# print(get_bilibili_voice(url))
+url = 'https://www.bilibili.com/video/BV1g4moYBE4M'
+print(get_bilibili_voice(url))

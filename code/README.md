@@ -22,5 +22,10 @@
 #### 视频推送
 ...
 
+### 麻将逻辑
+- [单机版](mahjong_offline.py) ✅ by.沉默懒惰
+- [联机版](mahjong_online.py)
+- [客户端](mahjong_client.py)(未来会用 Javascript 重写然后挂到网页上)
+
 
 

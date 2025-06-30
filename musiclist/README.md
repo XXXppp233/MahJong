@@ -37,7 +37,7 @@ Youtube 音源，在 url 后面添加 &t=10 即可精准定位到第 10s
 - [植物大战基米 水池](https://www.bilibili.com/video/BV1bZeXeCEWc)
 - [植物大战基米 屋顶](https://www.bilibili.com/video/BV11M4m1m75f)
 - [💣欢乐斗基米💣(修复版)](https://www.bilibili.com/video/BV1my411q7iZ)
-
+- [🐱我被困在了哈基乡](https://www.bilibili.com/video/BV1RGNJzCEXq)
   
 ## 我的世界系列
 - [C418-living mice](https://www.youtube.com/watch?v=aQKGqzjno2g)

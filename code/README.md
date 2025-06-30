@@ -11,13 +11,13 @@
     - [音频获取](get_bilibili_media.py) ✅ by.沉默懒惰
 - youtube
     - [封面获取](get_ytb_img.py) ✅ by.沉默懒惰
-    -
+    - [音频获取](https://youtube.com) 未完成
 - douyin
-    -
-    -
+    - [封面获取](https://douyin.com) 未完成
+    - [音频获取](https://douyin.com) 未完成 
 - tiktok
-    -
-    -
+    - [封面获取](https://tiktok.com) 未完成
+    - [音频获取](https://tiktok.com) 未完成
 
 #### 视频推送
 ...

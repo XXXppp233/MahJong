@@ -7,6 +7,7 @@ Youtube 音源，在 url 后面添加 &t=10 即可精准定位到第 10s
 - [宇泽玲纱【Cotton Eye Joe】](https://www.bilibili.com/video/BV1tZKnejEK5)
 - [I Got Smoke](https://www.youtube.com/watch?v=_4AHZmFMCLc&t=109s)
 - [叮咚鸡](https://www.bilibili.com/video/BV1WM411m7HE)
+- [又哈气了一天♿已经很勇敢了！](【又哈气了一天♿已经很勇敢了！】 【精准空降到 01:57】 https://www.bilibili.com/video/BV1sQ32zWEQR/?t=49)
 
 ## 哈吉米系列
 - [🎵曼波 𝑵𝒐 𝑴𝒐𝒓𝒆🎵不再曼波](https://www.bilibili.com/video/BV1qzFmeQEap)

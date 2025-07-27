@@ -24,8 +24,8 @@
 
 ### 麻将逻辑
 - [单机版](mahjong_offline.py) ✅ 
-- [联机版](server.py)
-- [客户端](client.py)(未来会用 Javascript 重写然后挂到网页上)
+- [联机版](server.py) ✅
+- [客户端](client.py) ✅ (未来会开发 Web 图形化界面)
 
 
 

@@ -7,10 +7,10 @@
 尽量选用长视频平台
 
 - bilibili
-    - [封面获取](get_bilibili_img.py) ✅ by.沉默懒惰
-    - [音频获取](get_bilibili_media.py) ✅ by.沉默懒惰
+    - [封面获取](get_bilibili_img.py) ✅ 
+    - [音频获取](get_bilibili_media.py) ✅ 
 - youtube
-    - [封面获取](get_ytb_img.py) ✅ by.沉默懒惰
+    - [封面获取](get_ytb_img.py) ✅ 
     - [音频获取](https://youtube.com) 未完成
 - douyin
     - [封面获取](https://douyin.com) 未完成
@@ -23,9 +23,9 @@
 ...
 
 ### 麻将逻辑
-- [单机版](mahjong_offline.py) ✅ by.沉默懒惰
-- [联机版](mahjong_online.py)
-- [客户端](mahjong_client.py)(未来会用 Javascript 重写然后挂到网页上)
+- [单机版](mahjong_offline.py) ✅ 
+- [联机版](server.py)
+- [客户端](client.py)(未来会用 Javascript 重写然后挂到网页上)
 
 
 
